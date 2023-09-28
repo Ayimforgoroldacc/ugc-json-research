@@ -2,4 +2,4 @@
 ugc datadict json research
 
 
-prs are appreciated
+prs or opening issues is appreciated
